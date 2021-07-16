@@ -1,3 +1,5 @@
 # Python_Completo
 
-Neste projeto com as aula do curso Python 3, ministrado pelo Prof. Luiz Otávio Miranda.
+Curso de Python 3, ministrado pelo Prof. Luiz Otávio Miranda.
+
+Conceitos básicos ao avançado.
