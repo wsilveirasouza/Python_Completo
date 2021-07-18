@@ -17,12 +17,14 @@ Função range(start=0, stop, step=1)
 # for numero in range(20, 10, -1):
 #     print(numero)
 
-for n in range(0, 100, 8):
-    print(n)
+# for n in range(0, 100, 8):
+#     print(n)
 
-print('#############')
+# print('#############')
 
-for n in range(100):
-    if n % 8 == 0:
-        print(n)
+# for n in range(100):
+#     if n % 8 == 0:
+#         print(n)
+
+
 
