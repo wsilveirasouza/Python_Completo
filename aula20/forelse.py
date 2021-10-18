@@ -7,7 +7,7 @@ variavel = ['wellington','matheus','lucas']
 for valor in variavel:
     if valor.lower().startswith('j'):
         pass
-        continue
+        # continue
     print(valor)
 else:
     print('nao existe uma palavra que começa com a letra j.')
