@@ -1,7 +1,7 @@
 '''
 SPLIT
 '''
-string = 'o brasil é o pais do futebol, o brasil é penta.'
+string = 'O Brasil é o pais do futebol, o Brasil é penta.'
 lista1 = string.split(' ')
 lista2 = string.split(',')
 
@@ -15,4 +15,4 @@ for valor in lista1:
         contagem = qtd_vezes
         palavra = valor
 
-print(f'a palavra que apareceu mais vezes é {palavra} ({contagem}x)')
+print(f'A palavra que apareceu mais vezes é {palavra} ({contagem}x)')
