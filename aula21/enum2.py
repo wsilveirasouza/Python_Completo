@@ -16,3 +16,7 @@ lista1 = ['Lala','Pedro','Dener']
 
 for indice, nome in enumerate(lista1):
     print(indice, nome)
+# Desempacotamento de lista
+n1, n2, n3 = lista1
+
+print(n2)
