@@ -2,7 +2,7 @@
 FUNÇÃO: retornando tuplas
 '''
 def dumb():
-    return('Wellington','Jana')
+    return('Well','Jana')
 
 var = dumb()
 

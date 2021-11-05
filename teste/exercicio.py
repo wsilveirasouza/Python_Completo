@@ -12,6 +12,6 @@ tabuada = int(input('Digite a tabuada de sua preferência: '))
 
 resultado = 0
 
-for c in range(0, 10):
-    resultado += tabuada    
-    print(resultado)
+for c in range(1, 11):
+    resultado += tabuada
+    print(tabuada, ' * ', c, ' = ', resultado)

@@ -40,8 +40,9 @@ for index in range(19):
 
         if digito > 9: # Se o dígito for > que '9' o valor é '0'
             digito = 0 
-            total = 0 # Zera o total
-            novo_cpf += str(digito) # Concatena o dígito gerado no novo CPF
+        total = 0 # Zera o total
+
+        novo_cpf += str(digito) # Concatena o dígito gerado no novo CPF
 # verificando como está o cpf
 print(novo_cpf)
 # Evita sequencias. Ex: 111111111111, 00000000000...
