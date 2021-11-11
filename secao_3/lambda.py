@@ -29,4 +29,5 @@ lista = [
 # print(lista)
 # lista.sort(key=lambda item: item[1], reverse=False)
 # print(lista)
+# EXPRESSÃO LAMBDA
 print(sorted(lista, key=lambda i: i[1], reverse=True))
